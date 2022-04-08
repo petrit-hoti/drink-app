@@ -1,2 +1,2 @@
 # drinks
-React application 
+React app - Gjate bootcamp-it "PERPROGRAMERA" 
