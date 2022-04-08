@@ -1,2 +1,3 @@
-# drinks
-React app - Gjate bootcamp-it "PERPROGRAMERA" 
+# Projekti i pare - React
+
+
